@@ -144,8 +144,11 @@ Model dievaluasi menggunakan test set dengan threshold prediksi 0.7.
 | Metric               | Score |
 --------------------------------
 | Accuracy              | 82% |
+
 | Precision Pneumonia   | 79% |
+
 | Recall Pneumonia      | 98% |
+
 | F1-score Pneumonia    | 87% |
 
 ## Insight
